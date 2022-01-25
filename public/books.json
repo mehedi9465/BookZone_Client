@@ -1,0 +1,110 @@
+[
+    {
+        "bookName": "Book from Store 1",
+        "storeName": "Bright Ideas Bookstore",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-03.webp",
+        "price": "12",
+        "rating": "3.8",
+        "category": "Education",
+        "quantity": "9"
+    },
+    {
+        "bookName": "Book from Store 1",
+        "storeName": "Bright Ideas Bookstore",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-04.webp",
+        "price": "12",
+        "rating": "3.4",
+        "category": "Thrill",
+        "quantity": "7"
+    },
+    {
+        "bookName": "Book from Store 2",
+        "storeName": "The Book Spot",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-05.webp",
+        "price": "12",
+        "rating": "3.6",
+        "category": "Science",
+        "quantity": "15"
+    },
+    {
+        "bookName": "Book from Store 2",
+        "storeName": "The Book Spot",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-06.webp",
+        "price": "12",
+        "rating": "2.7",
+        "category": "Poetry",
+        "quantity": "11"
+    },
+    {
+        "bookName": "Book from Store 3",
+        "storeName": "The Story Keeper",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-01.webp",
+        "price": "12",
+        "rating": "4.7",
+        "category": "Romance",
+        "quantity": "5"
+    },
+    {
+        "bookName": "Book from Store 3",
+        "storeName": "The Story Keeper",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-07.png",
+        "price": "12",
+        "rating": "3.9",
+        "category": "Adventure",
+        "quantity": "9"
+    },
+    {
+        "bookName": "Book from Store 4",
+        "storeName": "The Last Chapter",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-23.png",
+        "price": "12",
+        "rating": "3.5",
+        "category": "Romance",
+        "quantity": "8"
+    },
+    {
+        "bookName": "Book from Store 4",
+        "storeName": "The Last Chapter",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-21.png",
+        "price": "12",
+        "rating": "4.2",
+        "category": "Thrill",
+        "quantity": "12"
+    },
+    {
+        "bookName": "Book from Store 5",
+        "storeName": "The Treasure Chest",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-20.png",
+        "price": "12",
+        "rating": "2.9",
+        "category": "Poetry",
+        "quantity": "10"
+    },
+    {
+        "bookName": "Book from Store 5",
+        "storeName": "The Treasure Chest",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-14.png",
+        "price": "12",
+        "rating": "4.5",
+        "category": "Education",
+        "quantity": "6"
+    },
+    {
+        "bookName": "Book from Store 6",
+        "storeName": "The Bookworm Shack",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-13.png",
+        "price": "12",
+        "rating": "4.1",
+        "category": "Adventure",
+        "quantity": "7"
+    },
+    {
+        "bookName": "Book from Store 6",
+        "storeName": "The Bookworm Shack",
+        "img": "https://big-skins.com/frontend/foxic-html-demo/images/skins/books/products/product-12.png",
+        "price": "12",
+        "rating": "3.5",
+        "category": "Science",
+        "quantity": "7"
+    }
+]

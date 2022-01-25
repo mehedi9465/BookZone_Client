@@ -1,0 +1,39 @@
+.banner{
+    width: 100%;
+    background: url('https://big-skins.com/frontend/foxic-html-demo/images/skins/books/slider/slide-books-01.webp');
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.content{
+    width: 40% !important;
+    padding: 9vw 0px;
+}
+
+.content div{
+    padding: 70px 0px;
+}
+
+.content p{
+    font-size: 3vw;
+    line-height: 2.5vw;
+}
+
+#globalBTN{
+    width: 6.3vw;
+    background-color: #4DA03F;
+    border: none;
+    margin-top: 20px;
+    font-size: 0.8vw !important;
+    font-weight: bold;
+    padding: 12px 0px;
+}
+
+#globalBTN:hover{
+    background-color: #282928;
+}
+
+.display-1{
+    font-weight: 400 !important;
+}

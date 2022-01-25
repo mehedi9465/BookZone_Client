@@ -1,0 +1,16 @@
+.badge{
+    font-size: 9px;
+}
+
+.navbar{
+    background-color: #FFAB91 !important;
+}
+
+.dropdown-menu{
+    background: #FFAB91;
+    width: 250px;
+}
+
+.dropdown-item{
+    width: 100%;
+}

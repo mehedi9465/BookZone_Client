@@ -1,0 +1,19 @@
+.cover{
+    overflow: hidden;
+}
+
+.storeCard:hover .explore{
+    visibility: visible !important;
+}
+
+.explore:hover{
+    color: white !important;
+}
+
+.cover img{
+    transition: 0.4s ease-in-out;
+}
+
+.storeCard:hover > .cover img{
+    transform: scale(1.1) !important;
+}

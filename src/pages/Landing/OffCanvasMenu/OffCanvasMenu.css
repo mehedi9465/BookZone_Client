@@ -1,0 +1,26 @@
+.offCanvasMenu{
+    padding: 0px;
+}
+
+.offCanvasMenu li{
+    list-style: none;
+    font-size: 1.2rem;
+    margin: 2px 0px;
+    padding: 11px 7px;
+    transition: 0.3s ease-in-out;
+}
+
+.offCanvasMenu li a{
+    margin: 0px 40px;
+    text-decoration: none;
+    color: black;
+    transition: 0.3s ease-in-out;
+}
+
+.offCanvasMenu li:hover{
+    background-color: green;
+}
+
+.offCanvasMenu li:hover >a {
+    color: white;
+}
